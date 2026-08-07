@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+.env
+backend/deception.db
+generated_tokens/*
+!generated_tokens/.gitkeep
